@@ -1,6 +1,6 @@
 <!--
 ---
-name: Pirate Audio Speaker
+name: Pirate Audio Speaker (rev 2 - manufactured after January 2020)
 class: board
 type: audio
 formfactor: pHAT
@@ -13,6 +13,7 @@ pincount: 40
 eeprom: no
 power:
   '2':
+  '17'
 ground:
   '25':
   '39':
@@ -32,7 +33,7 @@ pin:
     name: Button B
   '36':
     name: Button X
-  '38':
+  '18':
     name: Button Y
   '33':
     name: LCD Backlight
